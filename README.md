@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista kaupassa käymiseen
+Kauppalista käyminen asd muokattu :D
